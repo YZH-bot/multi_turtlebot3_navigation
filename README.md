@@ -1,6 +1,5 @@
 # multi_turtlebot3_navigation
-
-![img]()
+![](imgs/multi-turtlebot3.gif)
 
 ## How to use?：
 
