@@ -1,7 +1,8 @@
 # multi_turtlebot3_navigation
+## 📹 Video Demo:
 ![](imgs/multi-turtlebot3.gif)
 
-## How to use?：
+## :gear: How to use?：
 
 ```
 roslaunch multi_turtlebot3_navigation multi_turtlebot3_gazebo.launch
